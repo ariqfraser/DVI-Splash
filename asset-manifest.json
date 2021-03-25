@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/DVI-Splash/static/css/main.9f92a154.chunk.css",
-    "main.js": "/DVI-Splash/static/js/main.e2d30a5f.chunk.js",
-    "main.js.map": "/DVI-Splash/static/js/main.e2d30a5f.chunk.js.map",
-    "runtime-main.js": "/DVI-Splash/static/js/runtime-main.c78c36e4.js",
-    "runtime-main.js.map": "/DVI-Splash/static/js/runtime-main.c78c36e4.js.map",
-    "static/js/2.f88af012.chunk.js": "/DVI-Splash/static/js/2.f88af012.chunk.js",
-    "static/js/2.f88af012.chunk.js.map": "/DVI-Splash/static/js/2.f88af012.chunk.js.map",
-    "static/js/3.0a12bc41.chunk.js": "/DVI-Splash/static/js/3.0a12bc41.chunk.js",
-    "static/js/3.0a12bc41.chunk.js.map": "/DVI-Splash/static/js/3.0a12bc41.chunk.js.map",
+    "main.css": "/DVI-Splash/static/css/main.a0030939.chunk.css",
+    "main.js": "/DVI-Splash/static/js/main.f681ef65.chunk.js",
+    "main.js.map": "/DVI-Splash/static/js/main.f681ef65.chunk.js.map",
+    "runtime-main.js": "/DVI-Splash/static/js/runtime-main.bdc2d36b.js",
+    "runtime-main.js.map": "/DVI-Splash/static/js/runtime-main.bdc2d36b.js.map",
+    "static/js/2.158fef12.chunk.js": "/DVI-Splash/static/js/2.158fef12.chunk.js",
+    "static/js/2.158fef12.chunk.js.map": "/DVI-Splash/static/js/2.158fef12.chunk.js.map",
+    "static/js/3.f2aa8fcb.chunk.js": "/DVI-Splash/static/js/3.f2aa8fcb.chunk.js",
+    "static/js/3.f2aa8fcb.chunk.js.map": "/DVI-Splash/static/js/3.f2aa8fcb.chunk.js.map",
     "index.html": "/DVI-Splash/index.html",
-    "static/css/main.9f92a154.chunk.css.map": "/DVI-Splash/static/css/main.9f92a154.chunk.css.map",
-    "static/js/2.f88af012.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.f88af012.chunk.js.LICENSE.txt",
+    "static/css/main.a0030939.chunk.css.map": "/DVI-Splash/static/css/main.a0030939.chunk.css.map",
+    "static/js/2.158fef12.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.158fef12.chunk.js.LICENSE.txt",
     "static/media/CityBlock.72d4efd9.jpg": "/DVI-Splash/static/media/CityBlock.72d4efd9.jpg",
     "static/media/Kiosk1.3fba1842.jpg": "/DVI-Splash/static/media/Kiosk1.3fba1842.jpg",
     "static/media/Kiosk2.180fe6de.jpg": "/DVI-Splash/static/media/Kiosk2.180fe6de.jpg",
     "static/media/Van.6a31caf9.jpg": "/DVI-Splash/static/media/Van.6a31caf9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c78c36e4.js",
-    "static/js/2.f88af012.chunk.js",
-    "static/css/main.9f92a154.chunk.css",
-    "static/js/main.e2d30a5f.chunk.js"
+    "static/js/runtime-main.bdc2d36b.js",
+    "static/js/2.158fef12.chunk.js",
+    "static/css/main.a0030939.chunk.css",
+    "static/js/main.f681ef65.chunk.js"
   ]
 }
