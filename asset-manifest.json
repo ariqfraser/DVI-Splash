@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DVI-Splash/static/css/main.ae5a2e99.chunk.css",
+    "main.css": "/DVI-Splash/static/css/main.029106c0.chunk.css",
     "main.js": "/DVI-Splash/static/js/main.4e549e41.chunk.js",
     "main.js.map": "/DVI-Splash/static/js/main.4e549e41.chunk.js.map",
     "runtime-main.js": "/DVI-Splash/static/js/runtime-main.7a86c7b4.js",
@@ -10,7 +10,7 @@
     "static/js/3.f32d1a06.chunk.js": "/DVI-Splash/static/js/3.f32d1a06.chunk.js",
     "static/js/3.f32d1a06.chunk.js.map": "/DVI-Splash/static/js/3.f32d1a06.chunk.js.map",
     "index.html": "/DVI-Splash/index.html",
-    "static/css/main.ae5a2e99.chunk.css.map": "/DVI-Splash/static/css/main.ae5a2e99.chunk.css.map",
+    "static/css/main.029106c0.chunk.css.map": "/DVI-Splash/static/css/main.029106c0.chunk.css.map",
     "static/js/2.7732736f.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.7732736f.chunk.js.LICENSE.txt",
     "static/media/berry.73da52b2.jfif": "/DVI-Splash/static/media/berry.73da52b2.jfif",
     "static/media/mint.768af403.jfif": "/DVI-Splash/static/media/mint.768af403.jfif"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.7a86c7b4.js",
     "static/js/2.7732736f.chunk.js",
-    "static/css/main.ae5a2e99.chunk.css",
+    "static/css/main.029106c0.chunk.css",
     "static/js/main.4e549e41.chunk.js"
   ]
 }
