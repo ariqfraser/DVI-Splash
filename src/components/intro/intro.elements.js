@@ -33,17 +33,14 @@ export const DownArrow = styled(MdKeyboardArrowDown)`
     left: 50%;
     transform: translate(-50%, -50%);
 
-    animation: up-down 1s linear infinite;
+    animation: up-down 0.5s ease-in-out alternate infinite;
 
     @keyframes up-down{
         0% {
             margin-top: 0;
         }
-        50% {
-            margin-top: -20px;
-        }
         100% {
-            margin-top: 0;
+            margin-top: -20px;
         }
     }
 `

@@ -5,9 +5,10 @@ import styled from 'styled-components'
 export const PanelContainer = styled.div`
     position: relative;
     width: 100vw;
+    display: flex;
     justify-content: center;
     align-items: center;
-    height: 50vh;
+    
 `;
 
 

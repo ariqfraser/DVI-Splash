@@ -6,14 +6,23 @@ import Van from './img/background/Van.jpg';
 import {Splash} from './elements'
 import Intro from './intro'
 import P1 from './panels/p1';
+import styled from 'styled-components'
+//import SpeechBox from './speechbox'
 
 const SplashAd = () => {
-    const bg = [CityBlock, Kiosk1, Kiosk2, Van];
+    const bg = [
+        CityBlock,
+        Kiosk1,
+        Kiosk2,
+        Van
+    ];
+
 
     return (
         <Splash>
             <Intro />
-            <P1 bg={bg}/>
+            <P1 bg={bg} text={""}/>
+
         </Splash>
     )
 }
