@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/DVI-Splash/static/css/main.029106c0.chunk.css",
-    "main.js": "/DVI-Splash/static/js/main.4e549e41.chunk.js",
-    "main.js.map": "/DVI-Splash/static/js/main.4e549e41.chunk.js.map",
-    "runtime-main.js": "/DVI-Splash/static/js/runtime-main.7a86c7b4.js",
-    "runtime-main.js.map": "/DVI-Splash/static/js/runtime-main.7a86c7b4.js.map",
-    "static/js/2.7732736f.chunk.js": "/DVI-Splash/static/js/2.7732736f.chunk.js",
-    "static/js/2.7732736f.chunk.js.map": "/DVI-Splash/static/js/2.7732736f.chunk.js.map",
-    "static/js/3.f32d1a06.chunk.js": "/DVI-Splash/static/js/3.f32d1a06.chunk.js",
-    "static/js/3.f32d1a06.chunk.js.map": "/DVI-Splash/static/js/3.f32d1a06.chunk.js.map",
+    "main.css": "/DVI-Splash/static/css/main.9f92a154.chunk.css",
+    "main.js": "/DVI-Splash/static/js/main.e2d30a5f.chunk.js",
+    "main.js.map": "/DVI-Splash/static/js/main.e2d30a5f.chunk.js.map",
+    "runtime-main.js": "/DVI-Splash/static/js/runtime-main.c78c36e4.js",
+    "runtime-main.js.map": "/DVI-Splash/static/js/runtime-main.c78c36e4.js.map",
+    "static/js/2.f88af012.chunk.js": "/DVI-Splash/static/js/2.f88af012.chunk.js",
+    "static/js/2.f88af012.chunk.js.map": "/DVI-Splash/static/js/2.f88af012.chunk.js.map",
+    "static/js/3.0a12bc41.chunk.js": "/DVI-Splash/static/js/3.0a12bc41.chunk.js",
+    "static/js/3.0a12bc41.chunk.js.map": "/DVI-Splash/static/js/3.0a12bc41.chunk.js.map",
     "index.html": "/DVI-Splash/index.html",
-    "static/css/main.029106c0.chunk.css.map": "/DVI-Splash/static/css/main.029106c0.chunk.css.map",
-    "static/js/2.7732736f.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.7732736f.chunk.js.LICENSE.txt",
-    "static/media/berry.73da52b2.jfif": "/DVI-Splash/static/media/berry.73da52b2.jfif",
-    "static/media/mint.768af403.jfif": "/DVI-Splash/static/media/mint.768af403.jfif"
+    "static/css/main.9f92a154.chunk.css.map": "/DVI-Splash/static/css/main.9f92a154.chunk.css.map",
+    "static/js/2.f88af012.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.f88af012.chunk.js.LICENSE.txt",
+    "static/media/CityBlock.72d4efd9.jpg": "/DVI-Splash/static/media/CityBlock.72d4efd9.jpg",
+    "static/media/Kiosk1.3fba1842.jpg": "/DVI-Splash/static/media/Kiosk1.3fba1842.jpg",
+    "static/media/Kiosk2.180fe6de.jpg": "/DVI-Splash/static/media/Kiosk2.180fe6de.jpg",
+    "static/media/Van.6a31caf9.jpg": "/DVI-Splash/static/media/Van.6a31caf9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a86c7b4.js",
-    "static/js/2.7732736f.chunk.js",
-    "static/css/main.029106c0.chunk.css",
-    "static/js/main.4e549e41.chunk.js"
+    "static/js/runtime-main.c78c36e4.js",
+    "static/js/2.f88af012.chunk.js",
+    "static/css/main.9f92a154.chunk.css",
+    "static/js/main.e2d30a5f.chunk.js"
   ]
 }
