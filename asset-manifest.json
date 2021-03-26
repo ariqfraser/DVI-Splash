@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DVI-Splash/static/css/main.8db5b695.chunk.css",
-    "main.js": "/DVI-Splash/static/js/main.8bff348e.chunk.js",
-    "main.js.map": "/DVI-Splash/static/js/main.8bff348e.chunk.js.map",
+    "main.js": "/DVI-Splash/static/js/main.072e2e42.chunk.js",
+    "main.js.map": "/DVI-Splash/static/js/main.072e2e42.chunk.js.map",
     "runtime-main.js": "/DVI-Splash/static/js/runtime-main.bdc2d36b.js",
     "runtime-main.js.map": "/DVI-Splash/static/js/runtime-main.bdc2d36b.js.map",
     "static/js/2.e1a44cdb.chunk.js": "/DVI-Splash/static/js/2.e1a44cdb.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.bdc2d36b.js",
     "static/js/2.e1a44cdb.chunk.js",
     "static/css/main.8db5b695.chunk.css",
-    "static/js/main.8bff348e.chunk.js"
+    "static/js/main.072e2e42.chunk.js"
   ]
 }
