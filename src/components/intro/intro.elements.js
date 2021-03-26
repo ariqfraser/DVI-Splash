@@ -2,7 +2,7 @@ import {MdKeyboardArrowDown} from 'react-icons/md';
 import styled from 'styled-components'
 
 export const IntroContainer = styled.div`
-    height: 100vh;
+    height: 110vh;
     width: 100vw;
     display: flex;
     position: relative;

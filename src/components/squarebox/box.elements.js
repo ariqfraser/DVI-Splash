@@ -1,14 +1,13 @@
 import styled from 'styled-components'
 
 export const BoxWrapper = styled.div`
-    margin-left: -50%;
+    // margin-left: -50%;
     z-index: 300;
 `
 
 export const Box = styled.div`
-    min-width: 200px;
-    max-width: 500px;
-    tex-align: left;
+    width: 400px;
+    text-align: left;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,7 +19,7 @@ export const Box = styled.div`
 export  const BoxP = styled.div`
     font-size: 2rem;
     color: #232323;
-    padding: 8px 0 ;
+    padding: 8px 8px;
 
     font-family: 'Indie Flower', cursive;
 `

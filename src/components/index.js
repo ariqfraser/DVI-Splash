@@ -6,6 +6,7 @@ import Van from './img/background/Van.jpg';
 import {Splash} from './elements'
 import Intro from './intro'
 import P1 from './panels/p1';
+import P2 from './panels/p2';
 import styled from 'styled-components'
 //import SpeechBox from './speechbox'
 
@@ -22,7 +23,7 @@ const SplashAd = () => {
         <Splash>
             <Intro />
             <P1 bg={bg} text={""}/>
-
+            <P2 />
         </Splash>
     )
 }
