@@ -46,9 +46,7 @@ const P1 = ({bg}) => {
         height: 100vh;
     `
     
-    useEffect(() => {
-        //window.location.href = `http://localhost:3000`;
-      }, []);
+    
 
     return (
         <div>
@@ -69,9 +67,7 @@ const P1 = ({bg}) => {
                             <img src={Set1} alt='' style={{'transform': 'scale(0.5)'}}/>  
                         </Parallax>
 
-                        <Parallax y={[200,550]}>
-                            <SquareBox text="Goldie and her Dad go to an ice cream kiosk near by..."/>
-                        </Parallax>
+                        
                     </div>
                 </Controller>
             </PanelContainer>
@@ -80,14 +76,22 @@ const P1 = ({bg}) => {
 
             <PanelContainer>
                 <Controller>
+                    
                     <Scene duration={700} pin={true} enabled={true} offset={0}>
                         <SceneBg src={bg[1]} alt=''/>
                     </Scene>
 
                     <div className={Fix}>
-                        <Parallax y={[0, 500]}>
-                            <SquareBox text="and try a taster."/>
+                        <Parallax y={[0,200]}>
+                            <SquareBox text="Goldie and her Dad go to an ice cream kiosk near by and try a taster."/>
                         </Parallax>
+                        {/* <Parallax y={[0, 500]}>
+                            <SquareBox text="and try a taster."/>
+                        </Parallax> */}
+                        {/* <Parallax y={[0,550]}>
+                            <SquareBox text="Goldie and her Dad go to an ice cream kiosk near by and try a taster."/>
+                        </Parallax> */}
+
                         <Parallax y={[10,100]} >
                             <img src={Set2} alt='' style={{'transform': 'scale(0.5)'}}/>  
 
