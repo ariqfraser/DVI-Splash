@@ -8,6 +8,7 @@ export const PanelContainer = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 50vh;
 
 `;
 
@@ -25,5 +26,5 @@ export const SceneBg = styled.img`
 export const Splash = styled.div`
     with: 100vw;
     height: 400vh;
-
+    
 `
