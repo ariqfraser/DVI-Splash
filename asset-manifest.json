@@ -1,27 +1,30 @@
 {
   "files": {
     "main.css": "/DVI-Splash/static/css/main.8db5b695.chunk.css",
-    "main.js": "/DVI-Splash/static/js/main.072e2e42.chunk.js",
-    "main.js.map": "/DVI-Splash/static/js/main.072e2e42.chunk.js.map",
+    "main.js": "/DVI-Splash/static/js/main.e4a1448d.chunk.js",
+    "main.js.map": "/DVI-Splash/static/js/main.e4a1448d.chunk.js.map",
     "runtime-main.js": "/DVI-Splash/static/js/runtime-main.bdc2d36b.js",
     "runtime-main.js.map": "/DVI-Splash/static/js/runtime-main.bdc2d36b.js.map",
-    "static/js/2.e1a44cdb.chunk.js": "/DVI-Splash/static/js/2.e1a44cdb.chunk.js",
-    "static/js/2.e1a44cdb.chunk.js.map": "/DVI-Splash/static/js/2.e1a44cdb.chunk.js.map",
+    "static/js/2.33f7b85c.chunk.js": "/DVI-Splash/static/js/2.33f7b85c.chunk.js",
+    "static/js/2.33f7b85c.chunk.js.map": "/DVI-Splash/static/js/2.33f7b85c.chunk.js.map",
     "static/js/3.f2aa8fcb.chunk.js": "/DVI-Splash/static/js/3.f2aa8fcb.chunk.js",
     "static/js/3.f2aa8fcb.chunk.js.map": "/DVI-Splash/static/js/3.f2aa8fcb.chunk.js.map",
     "index.html": "/DVI-Splash/index.html",
     "static/css/main.8db5b695.chunk.css.map": "/DVI-Splash/static/css/main.8db5b695.chunk.css.map",
-    "static/js/2.e1a44cdb.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.e1a44cdb.chunk.js.LICENSE.txt",
+    "static/js/2.33f7b85c.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.33f7b85c.chunk.js.LICENSE.txt",
     "static/media/CityBlock.72d4efd9.jpg": "/DVI-Splash/static/media/CityBlock.72d4efd9.jpg",
     "static/media/Kiosk1.3fba1842.jpg": "/DVI-Splash/static/media/Kiosk1.3fba1842.jpg",
     "static/media/Kiosk2.180fe6de.jpg": "/DVI-Splash/static/media/Kiosk2.180fe6de.jpg",
     "static/media/Van.6a31caf9.jpg": "/DVI-Splash/static/media/Van.6a31caf9.jpg",
-    "static/media/aaa.ea7482e5.png": "/DVI-Splash/static/media/aaa.ea7482e5.png"
+    "static/media/aaa.ea7482e5.png": "/DVI-Splash/static/media/aaa.ea7482e5.png",
+    "static/media/aaa2.80456385.png": "/DVI-Splash/static/media/aaa2.80456385.png",
+    "static/media/aaa3.a24b5826.png": "/DVI-Splash/static/media/aaa3.a24b5826.png",
+    "static/media/aaa4.6fa6a8c9.png": "/DVI-Splash/static/media/aaa4.6fa6a8c9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bdc2d36b.js",
-    "static/js/2.e1a44cdb.chunk.js",
+    "static/js/2.33f7b85c.chunk.js",
     "static/css/main.8db5b695.chunk.css",
-    "static/js/main.072e2e42.chunk.js"
+    "static/js/main.e4a1448d.chunk.js"
   ]
 }
