@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DVI-Splash/static/css/main.8db5b695.chunk.css",
-    "main.js": "/DVI-Splash/static/js/main.30a0098d.chunk.js",
-    "main.js.map": "/DVI-Splash/static/js/main.30a0098d.chunk.js.map",
+    "main.css": "/DVI-Splash/static/css/main.9f92a154.chunk.css",
+    "main.js": "/DVI-Splash/static/js/main.98d468c0.chunk.js",
+    "main.js.map": "/DVI-Splash/static/js/main.98d468c0.chunk.js.map",
     "runtime-main.js": "/DVI-Splash/static/js/runtime-main.bdc2d36b.js",
     "runtime-main.js.map": "/DVI-Splash/static/js/runtime-main.bdc2d36b.js.map",
     "static/js/2.33f7b85c.chunk.js": "/DVI-Splash/static/js/2.33f7b85c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.f2aa8fcb.chunk.js": "/DVI-Splash/static/js/3.f2aa8fcb.chunk.js",
     "static/js/3.f2aa8fcb.chunk.js.map": "/DVI-Splash/static/js/3.f2aa8fcb.chunk.js.map",
     "index.html": "/DVI-Splash/index.html",
-    "static/css/main.8db5b695.chunk.css.map": "/DVI-Splash/static/css/main.8db5b695.chunk.css.map",
+    "static/css/main.9f92a154.chunk.css.map": "/DVI-Splash/static/css/main.9f92a154.chunk.css.map",
     "static/js/2.33f7b85c.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.33f7b85c.chunk.js.LICENSE.txt",
     "static/media/CityBlock.72d4efd9.jpg": "/DVI-Splash/static/media/CityBlock.72d4efd9.jpg",
     "static/media/Kiosk1.3fba1842.jpg": "/DVI-Splash/static/media/Kiosk1.3fba1842.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.bdc2d36b.js",
     "static/js/2.33f7b85c.chunk.js",
-    "static/css/main.8db5b695.chunk.css",
-    "static/js/main.30a0098d.chunk.js"
+    "static/css/main.9f92a154.chunk.css",
+    "static/js/main.98d468c0.chunk.js"
   ]
 }
